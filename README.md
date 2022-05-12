@@ -8,3 +8,4 @@ Mon nom d'utilisateur est **adorno0**
 - index.html
 - style.css
 - README.md
+- LICENSE
